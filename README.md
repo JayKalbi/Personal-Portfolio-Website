@@ -1,4 +1,4 @@
-Personal PortfolioWebsite
+Personal Portfolio Website
 
 This is a personal portfolio website template built using HTML, CSS, and JavaScript. 
 It is designed to showcase your skills, projects, and experiences in a visually appealing and responsive manner.
