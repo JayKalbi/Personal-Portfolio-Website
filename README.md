@@ -1,14 +1,22 @@
-#Personal-Portfolio-Website
-This is a personal portfolio website template built using HTML, CSS, and JavaScript. It is designed to showcase your skills, projects, and experiences in a visually appealing and responsive manner.
+Personal PortfolioWebsite
+
+This is a personal portfolio website template built using HTML, CSS, and JavaScript. 
+It is designed to showcase your skills, projects, and experiences in a visually appealing and responsive manner.
 
 Features ::
 
 Responsive Design: The website is fully responsive, ensuring optimal viewing experience across various devices and screen sizes.
+
 Navigation: Smooth scrolling navigation allows users to easily navigate through different sections of the website.
+
 Project Showcase: Display your projects with project cards featuring project images, descriptions, and links.
+
 Skills Section: Showcase your skills with icons or progress bars, allowing visitors to quickly understand your strengths.
+
 About Me Section: Provide a brief introduction about yourself, your interests, and your experiences.
+
 Contact Form: Include a contact form for visitors to reach out to you directly.
+
 Social Media Integration: Links to your social media profiles for visitors to connect with you on various platforms.
 
 Installation ::
