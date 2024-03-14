@@ -18,6 +18,7 @@ Contact Form: Include a contact form for visitors to reach out to you directly.
 Social Media Integration: Links to your social media profiles for visitors to connect with you on various platforms.
 
 Installation ::
+
 Clone the repository or download the zip file. 
 
 Open the project folder in your preferred text editor.
@@ -31,6 +32,7 @@ Optionally, update the JavaScript files to add additional functionality or inter
 Upload the files to your web server or hosting provider.
 
 Usage :: 
+
 Modify index.html to update your personal information, including your name, photo, and introduction.
 
 Update the index.html file to add or remove project cards as needed. Each project card includes fields for the project name, image, description, and link.
